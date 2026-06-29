@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smart Water IoT - Desa Cerdas",
+  "description": "Sistem monitoring IoT dan filtrasi air bersih multi-layer mandiri untuk ekosistem Desa Cerdas Mandiri Air Bersih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
